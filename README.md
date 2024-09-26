@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Boldisch9
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm 16
 
